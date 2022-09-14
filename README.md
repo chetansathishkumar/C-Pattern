@@ -1,11 +1,18 @@
 # Pattern
-
 ## Aim:
-
-## Equipment Required:
+Develop a C# program to print Pascal's Triangle.
 
 ## Algorithm:
-
+## STEP 1: 
+Create the class and assign the number of rows to be as 5. <br>
+## STEP 2:
+Run the outer for loop n times. <br>
+## STEP 3:
+The first inner for loop should print the spaces first. <br>
+## STEP 4: 
+The second inner for loop should print number using the combination formula. <br>
+## STEP 5: 
+Display the Results. <br>
 ## Program:
  ```
  using System;
@@ -42,3 +49,4 @@ namespace pattern
 
 
 ## Result:
+Thus the C# program to print the first 5 rows in a Pascal's traingle has been implemented successfully.
